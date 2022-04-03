@@ -1,0 +1,2 @@
+# Snake-Game-in-Java
+If you are a 90’s Kid or an adult you have probably played this game on your phones. Have you ever thought of building this game? The goal of this game is to make the snake eat the tokens which are its food w/o the snake being touched to the boundary on the screen. Every time the snake eats the token the score is updated. The player loses when the snake touches the boundary &amp; the final score is displayed.
